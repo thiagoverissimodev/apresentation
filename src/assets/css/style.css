@@ -1,0 +1,14 @@
+:root {
+    --font-main: 'Roboto';
+    --green-main: #1C3D32;
+    --green-secondary: #4FAB8C;
+    --green-light: #ADE3D1;
+    --green-deep: #485E57;
+    --white: #ffffff;
+    --gradient-main: linear-gradient(151deg, rgba(28,61,50,1) 3%, rgba(79,171,140,1) 100%);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
